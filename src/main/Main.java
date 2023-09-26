@@ -10,4 +10,11 @@ public class Main {
 	public void metodo2() {
 		// nada tampoco
 	}
+	
+	
+	public void metodo3() {
+		// nada tampoco
+	}
+	
+	
 }
