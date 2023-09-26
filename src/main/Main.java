@@ -16,5 +16,8 @@ public class Main {
 		// nada tampoco
 	}
 	
+	public void metodo4() {
+		// nada tampoco
+	}
 	
 }
