@@ -20,4 +20,15 @@ public class Main {
 		// nada tampoco
 	}
 	
+	
+	public void metodo5() {
+		// nada tampoco
+	}
+	
+	public void metodo6() {
+		// nada tampoco
+	}
+	
+	
+	
 }
